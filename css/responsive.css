@@ -1,0 +1,2483 @@
+@media only screen and (min-width: 1365px) {
+
+.container {
+
+    max-width: 1250px;
+
+    width: 100%;
+
+}
+
+}
+
+@media only screen and (min-width: 1439px) {
+
+.container {
+
+    max-width: 1280px;
+
+    width: 100%;
+
+}
+
+}
+
+@media only screen and (min-width: 1579px) {
+
+.container {
+
+    max-width: 1380px;
+
+    width: 100%;
+
+}
+
+}
+
+@media only screen and (min-width: 1679px) {
+
+.container {
+
+    max-width: 1520px;
+
+    width: 100%;
+
+}
+
+}
+
+
+
+
+
+/* Mx Width */
+
+@media only screen and (max-width: 1880px) {
+.light-img {
+    width: 580px;
+}
+.intro-book-img {
+
+    width: 600px;
+
+}
+
+.academic-img {
+
+    width: 520px;
+
+}
+
+.footer-icons {
+
+    max-width: 600px;
+
+}
+
+.copyrit-txt {
+
+    padding-top: 100px;
+
+}
+
+}
+
+@media only screen and (max-width: 1780px) {
+.light-img {
+    width: 550px;
+}
+.student-sec {
+
+    padding: 170px 0px 160px;
+
+}
+
+.academic-sec {
+
+    padding: 170px 0px 98px;
+
+}
+
+.st-img {
+
+    max-width: 530px;
+
+}
+
+.st-img-one {
+
+    max-width: 450px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 460px;
+
+    right: 70px;
+
+}
+
+.intro-book-img {
+
+    width: 580px;
+
+}
+
+
+
+.academic-img {
+
+    width: 500px;
+
+}
+
+}
+
+@media only screen and (max-width: 1740px) {
+.light-img {
+    width: 520px;
+}
+}
+@media only screen and (max-width: 1680px) {
+.header-with-dots{
+    top: 70px;
+}
+.light-img {
+    width: 530px;
+}
+.mentors-area h3 {
+    padding-left: 100px;
+    margin-bottom: -20px;
+}
+.para-area p {
+    width: 82%;
+}
+.student-sec {
+
+    padding: 150px 0px 130px;
+
+}
+
+.parents-sec {
+
+    padding: 170px 0px 190px;
+
+}
+
+.para-wit-dots {
+
+    margin-top: -240px;
+
+}
+
+.nav-item a {
+
+    font-size: 20px;
+
+}
+
+.theme-btn {
+
+    font-size: 20px !important;
+
+    line-height: 20px !important;
+
+    padding: 18px 18px 18px 35px !important;
+
+    border-radius: 10px;
+
+}
+
+.nav-link.theme-btn {
+
+    padding-left: 60px !important;
+
+}
+
+.header-with-dots .asteroid {
+
+    width: 450px;
+
+}
+
+.stitle-tagline {
+
+    font-size: 44px;
+
+    line-height: 54px;
+
+}
+
+.section-title {
+
+    font-size: 160px;
+
+}
+
+.intro-area .rocket {
+
+    width: 240px;
+
+    margin-right: -180px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 500px;
+
+}
+
+.intro-book-img {
+
+    width: 530px;
+
+}
+
+.intro-img {
+    width: 800px;
+}
+
+.st-img,.parents-img-one,.mentors-img-one {
+
+    max-width: 500px;
+
+}
+
+.st-img-one {
+
+    max-width: 430px;
+
+}
+
+p {
+
+    font-size: 22px;
+
+    line-height: 42px;
+
+}
+
+.mentors-img-two {
+
+    margin-top: -180px;
+
+    margin-right: -80px;
+
+}
+
+.calc{
+  width: 1100px;
+}
+
+.academic-area {
+
+    max-width: 68%;
+
+}
+
+.academic-area ul li {
+
+    font-size: 22px;
+
+    line-height: 42px;
+
+}
+
+.academic-img {
+
+    width: 420px;
+
+}
+
+.academic-img-area {
+
+    bottom: -170px;
+
+}
+
+.certification-area {
+
+    max-width: 68%;
+
+ }
+
+ .footer-logo {
+
+    width: 320px;
+
+}
+
+.social-links img {
+
+    width: 40px;
+
+}
+
+.pencil-box img {
+
+    width: 90px;
+
+}
+
+.parents-img-two {
+
+    left: 50px;
+
+}
+
+.main-header .header-upper {
+
+    padding: 40px 0px;
+
+}
+
+.footer-icons {
+
+    max-width: 500px;
+
+}
+
+.copyrit-txt {
+
+    padding-top: 70px;
+
+}
+
+.academic-area h3 {
+
+    padding-left: 140px;
+
+    margin-bottom: -30px;
+
+}
+
+}
+
+
+@media only screen and (max-width: 1580px) {
+.nav-item {
+    padding: 0px 19px;
+}
+.st-area p {
+    width: 43%;
+}
+
+.certification-area {
+
+    max-width: 69%;
+
+}
+
+.academic-area {
+
+    max-width: 69%;
+
+}
+
+.section-title {
+
+    font-size: 150px;
+
+}
+
+.stitle-tagline {
+
+    font-size: 40px;
+
+    line-height: 50px;
+
+}
+
+p ,.academic-area ul li{
+
+    font-size: 20px;
+
+    line-height: 40px;
+
+}
+
+.footer-logo {
+
+    width: 280px;
+
+}
+
+.social-links img {
+
+    width: 38px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 420px;
+
+}
+
+.intro-book-img {
+
+    width: 500px;
+
+}
+
+.intro-img {
+
+    width: 700px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 500px;
+
+}
+
+.header-with-dots .asteroid {
+
+    width: 480px;
+
+}
+
+.pencil-box img {
+
+    width: 84px;
+
+}
+
+
+
+.academic-sec {
+
+    padding: 150px 0px 95px;
+
+}
+
+.academic-img {
+
+    width: 380px;
+
+}
+
+.academic-img-area {
+
+    bottom: -150px;
+
+}
+
+.academic-area ul li {
+
+    padding: 0px 0px 20px 45px;
+
+}
+
+.calc {
+    width: 1000px;
+}
+
+.certification-sec {
+
+    padding: 40px 0px 120px;
+
+}
+
+.operate-sec {
+
+    padding: 130px 0px 60px;
+
+}
+
+.student-sec {
+
+    padding: 130px 0px;
+
+}
+
+.intro-area .rocket {
+
+    width: 240px;
+
+    margin-right: -180px;
+
+    margin-bottom: -160px;
+
+}
+
+}
+
+@media only screen and (max-width: 1500px) {
+
+.intro-sec h1 {
+
+    font-size: 430px;
+
+}
+.light-img {
+    width: 500px;
+}
+}
+
+@media only screen and (max-width: 1440px) {
+.header-with-dots {
+    top: 40px;
+}
+.star-dots {
+    width: 500px;
+}
+.mentors-area p {
+    width: 90%;
+}
+.mentors-area h3 {
+    padding-left: 80px;
+    margin-bottom: -15px;
+}
+.para-area p {
+    width: 80%;
+}
+.logo img {
+
+    width: 450px;
+
+}
+
+.main-header .header-upper {
+
+    padding: 30px 0px;
+
+}
+
+.nav-item a {
+
+    font-size: 18px;
+
+}
+
+.theme-btn {
+
+    font-size: 18px !important;
+
+    line-height: 18px !important;
+
+    padding: 16px 16px 16px 30px !important;
+
+}
+
+.nav-link.theme-btn {
+
+    padding-left: 50px !important;
+
+}
+
+.stitle-tagline {
+
+    font-size: 36px;
+
+    line-height: 46px;
+
+}
+
+.section-title {
+
+    font-size: 130px;
+
+}
+
+.intro-area .rocket {
+
+    width: 220px;
+
+    margin-right: -160px;
+
+    margin-bottom: -154px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 400px;
+
+    right: 40px;
+
+}
+
+.intro-book-img {
+    width: 470px;
+}
+
+.intro-img {
+
+    width: 670px;
+
+}
+
+.header-with-dots .asteroid {
+
+    width: 450px;
+
+}
+
+.header-with-dots {
+
+    right: -220px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 450px;
+
+}
+
+.scroll-to-top {
+
+    width: 45px;
+
+    height: 45px;
+
+    font-size: 30px;
+
+    line-height: 40px;
+
+}
+
+.pencil-box img {
+
+    width: 74px;
+
+}
+
+p, .academic-area ul li {
+
+    font-size: 18px;
+
+    line-height: 38px;
+
+}
+
+.st-img, .parents-img-one, .mentors-img-one {
+
+    max-width: 450px;
+
+}
+
+.st-img-one {
+
+    max-width: 400px;
+
+}
+
+.parents-img-two {
+
+    left: 40px;
+
+    width: 350px;
+
+}
+
+.mentors-img-two {
+
+    margin-top: -160px;
+
+    margin-right: -60px;
+
+    width: 420px;
+
+    margin-bottom: -180px;
+
+}
+
+.calc {
+    width: 900px;
+}
+
+.operate-area h3 {
+
+    padding-left: 85px;
+
+    margin-bottom: -40px;
+
+}
+
+.academic-area h3 {
+
+    padding-left: 100px;
+
+}
+
+
+
+
+
+.academic-img {
+
+    width: 340px;
+
+}
+
+.certification-area {
+
+    max-width: 65%;
+
+}
+
+.academic-area {
+
+    max-width: 65%;
+
+}
+
+.footer-logo {
+
+    width: 240px;
+
+}
+
+.social-links img {
+
+    width: 30px;
+
+}
+
+.footer-icons {
+
+    max-width: 420px;
+
+}
+
+}
+
+@media only screen and (max-width: 1390px) {
+.light-img {
+    width: 475px;
+}
+}
+@media only screen and (max-width: 1366px) {
+.header-with-dots {
+    top: 20px;
+}
+.star-dots {
+    width: 450px;
+}
+.mentors-area p {
+    width: 75%;
+}
+.mentors-area h3 {
+    padding-left: 70px;
+}
+.para-area p {
+    width: 72%;
+}
+.intro-sec h1 {
+
+    bottom: -25px;
+
+    font-size: 370px;
+
+    right: 90px;
+
+}
+
+.logo img {
+
+    width: 400px;
+
+}
+
+.main-header .header-upper {
+
+    padding: 25px 0px;
+
+}
+
+.nav-item a {
+
+    font-size: 16px;
+
+}
+
+.theme-btn {
+
+    font-size: 16px !important;
+
+    line-height: 16px !important;
+
+    padding: 14px 14px 14px 28px !important;
+
+}
+
+.nav-link.theme-btn {
+
+    padding-left: 40px !important;
+
+}
+
+.stitle-tagline {
+
+    font-size: 32px;
+
+    line-height: 42px;
+
+}
+
+.section-title {
+
+    font-size: 110px;
+
+}
+
+.intro-area .rocket {
+
+    width: 200px;
+
+    margin-right: -150px;
+
+    margin-bottom: -135px;
+
+}
+
+.intro-img {
+    width: 630px;
+}
+
+.intro-book-img {
+
+    width: 440px;
+
+}
+
+.header-with-dots .asteroid {
+
+    width: 400px;
+
+    margin-top: 30px;
+
+}
+
+.header-with-dots {
+
+    right: -185px;
+
+}
+
+p, .academic-area ul li {
+
+    font-size: 16px;
+
+    line-height: 36px;
+
+}
+
+.st-img, .parents-img-one, .mentors-img-one {
+
+    max-width: 400px;
+
+}
+
+.st-img-one {
+
+    max-width: 350px;
+
+}
+
+.parents-img-two {
+
+    width: 300px;
+
+}
+
+.parents-sec {
+
+    padding: 160px 0px 150px;
+
+}
+
+.mentors-sec {
+
+    padding: 70px 0px 0px;
+
+}
+
+.mentors-img-two {
+
+    width: 450px;
+
+    margin-right: -40px;
+
+    margin-bottom: -160px;
+
+}
+
+.operate-area h3 {
+
+    padding-left: 70px;
+
+    margin-bottom: -30px;
+
+}
+
+.micon {
+
+    width: 45px;
+
+}
+
+
+
+
+
+.academic-area h3 {
+
+    padding-left: 90px;
+
+    margin-bottom: -20px;
+
+}
+
+.academic-area ul li {
+
+    padding: 0px 0px 15px 40px;
+
+}
+
+.academic-img {
+
+    width: 320px;
+
+}
+
+.academic-img-area {
+
+    bottom: -130px;
+
+}
+
+.certification-area {
+
+    max-width: 63%;
+
+}
+
+.footer-logo {
+
+    width: 220px;
+
+}
+
+.certification-sec {
+
+    padding: 30px 0px 100px;
+
+}
+
+.pencil-box img {
+
+    width: 70px;
+
+}
+
+.para-wit-dots {
+
+    margin-top: -200px;
+
+}
+
+.academic-area {
+
+    max-width: 63%;
+
+}
+
+.student-sec {
+
+    padding: 130px 0px 100px;
+
+}
+
+.intro-with-dots {
+
+    bottom: 100px;
+
+}
+
+}
+
+
+
+@media only screen and (max-width: 1280px) {
+.light-img {
+    width: 450px;
+}
+
+.logo img {
+
+    width: 350px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 320px;
+
+}
+
+.intro-book-img {
+
+    width: 380px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 400px;
+
+}
+
+.intro-with-dots {
+
+    bottom: 50px;
+
+}
+
+.intro-img {
+    width: 550px;
+    left: -70px;
+}
+.academic-lit-area {
+
+    bottom: -44px;
+}
+
+
+}
+
+
+
+@media only screen and (max-width: 1199px) {
+.lang-sw-click-btn{
+    top: 28px;
+}
+.nav-item {
+    padding: 0px 20px;
+}
+.lang-sw-btn,.lang-sw-click-btn {
+    font-size: 14px !important;
+    line-height: 20px !important;
+    padding: 6px 15px !important;
+    border-radius: 100px;
+}
+.light-img {
+    width: 420px;
+}
+.star-dots {
+    width: 400px;
+}
+.mentors-area p {
+    width: 90%;
+}
+.mentors-area h3 {
+    padding-left: 60px;
+}
+.para-area p {
+    width: 85%;
+    margin-bottom: 30px;
+}
+.st-area p {
+    width: 50%;
+}
+.certification-area {
+
+    max-width: 72%;
+
+}
+
+.academic-area {
+
+    max-width: 72%;
+
+}
+
+.mentors-img-two {
+
+    margin-right: 0px;
+
+    width: 350px;
+
+    margin-top: -110px;
+
+}
+
+.calc {
+    width: 700px;
+}
+
+.nav-item a {
+
+    font-size: 15px;
+
+}
+
+.theme-btn {
+
+    font-size: 15px !important;
+
+    line-height: 15px !important;
+
+    padding: 12px 12px 12px 26px !important;
+
+}
+
+.nav-link.theme-btn {
+
+    padding-left: 30px !important;
+
+}
+
+.stitle-tagline {
+
+    font-size: 30px;
+
+    line-height: 40px;
+
+}
+
+.section-title {
+
+    font-size: 100px;
+
+}
+
+.intro-area .rocket {
+
+    width: 180px;
+
+    margin-right: -140px;
+
+    margin-bottom: -130px;
+
+}
+
+.pencil-box img {
+
+    width: 65px;
+
+}
+
+.st-img, .parents-img-one, .mentors-img-one {
+
+    max-width: 350px;
+
+}
+
+.st-img-one {
+
+    margin-left: -80px;
+
+}
+
+.st-img-one {
+
+    max-width: 300px;
+
+}
+
+.parents-img-two {
+
+    width: 280px;
+
+}
+
+p, .academic-area ul li {
+
+    font-size: 15px;
+
+    line-height: 35px;
+
+}
+
+.mentors-sec {
+
+    padding: 50px 0px;
+
+}
+
+.scroll-to-top {
+
+    width: 40px;
+
+    height: 40px;
+
+    font-size: 24px;
+
+    line-height: 40px;
+
+}
+
+
+
+.academic-sec {
+
+    padding: 138px 0px 75px;
+
+}
+
+.academic-img {
+
+    width: 280px;
+
+}
+
+.fixed-header .sticky-header {
+
+    padding: 10px 0px;
+
+}
+
+
+}
+
+@media only screen and (max-width: 1120px) {
+.light-img {
+    width: 400px;
+}
+}
+@media only screen and (max-width: 1100px) {
+
+.intro-sec h1 {
+
+    font-size: 270px;
+
+}
+
+.intro-book-img {
+
+    width: 330px;
+
+}
+.intro-img {
+    width: 480px;
+}
+.st-area p {
+    width: 43%;
+}
+}
+@media only screen and (max-width: 1080px) {
+.light-img {
+    width: 380px;
+}
+}
+@media only screen and (max-width: 1020px) {
+.light-img {
+    width: 360px;
+}
+}
+@media only screen and (max-width: 991px) {
+.lang-sw-click-btn{
+    top: 26px;
+}
+.lang-sw-btn,.lang-sw-click-btn {
+    font-size: 13px !important;
+    line-height: 18px !important;
+    padding: 6px 15px !important;
+    border-radius: 100px;
+    color: #fff !important;
+    text-transform: uppercase;
+    font-family: 'barlowbold', sans-serif;
+}
+.lang-sw-item.mob-btn {
+    top: 2px !important;
+}
+.academic-lit-area {
+    bottom: -32px;
+}
+.light-img {
+    width: 340px;
+}
+.star-dots {
+    width: 350px;
+}
+.mentors-area p {
+    width: 100%;
+}
+.mentors-area h3 {
+    padding-left: 60px;
+}
+.mob-btn {
+    float: right;
+    margin-right: 10px;
+    position: relative;
+    top: -3px;
+    display: block !important;
+}
+.para-area p {
+    width: 100%;
+    margin-bottom: 0px;
+}
+.st-area p {
+    width: 50%;
+}
+nav.main-nav {
+
+    display: none;
+
+}
+
+.navbar-toggler {
+    display: inline-block;
+    float: right;
+}
+
+.header-with-dots .asteroid {
+
+    width: 320px;
+
+}
+
+.header-with-dots {
+
+    right: -135px;
+
+}
+
+.section-title {
+
+    font-size: 85px;
+
+}
+
+.stitle-tagline {
+
+    font-size: 24px;
+
+    line-height: 34px;
+
+}
+
+.theme-btn {
+
+    font-size: 14px !important;
+
+    line-height: 14px !important;
+
+    padding: 10px 10px 10px 24px !important;
+
+    border-radius: 5px !important;
+
+}
+
+.intro-area .rocket {
+
+    width: 160px;
+
+    margin-right: -120px;
+
+    margin-bottom: -115px;
+
+}
+
+.intro-sec h1 {
+    font-size: 200px;
+    bottom: -15px;
+    right: 40px;
+}
+
+.intro-area{
+
+  margin-right: 50px;
+
+  margin-top: 0px;
+
+}
+
+.intro-book-img {
+
+    width: 200px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 350px;
+
+}
+
+.intro-img {
+   width: 380px;
+   left: -30px;
+}
+
+p, .academic-area ul li {
+
+    font-size: 14px;
+
+    line-height: 30px;
+
+}
+
+.academic-area ul li {
+
+  padding-bottom: 0;
+
+  margin-bottom: 20px;
+
+}
+
+.academic-area ul li:after{
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+}
+
+.st-img, .parents-img-one, .mentors-img-one {
+
+    max-width: 300px;
+
+}
+
+.pencil-box img {
+
+    width: 60px;
+
+}
+
+.st-img-one {
+
+    max-width: 250px;
+
+}
+
+.para-area {
+
+    margin-left: -50px;
+
+}
+
+.calc {
+    width: 600px;
+}
+
+.parents-img-two {
+
+    width: 240px;
+
+}
+
+.mentors-area p br {
+
+    display: none;
+
+}
+
+.mentors-img-two {
+
+    width: 290px;
+
+    margin-top: -75px;
+
+}
+
+.operate-sec {
+
+    padding: 80px 0px 50px;
+
+}
+
+.certification-area {
+
+    max-width: 88%;
+
+}
+
+.certification-sec {
+
+    padding: 30px 0px 70px;
+
+}
+
+
+
+.academic-sec {
+
+    padding: 100px 0px 59px;
+
+}
+
+.academic-area {
+
+    margin-left: 100px;
+
+}
+
+.academic-area ul {
+
+    margin-left: 20px;
+
+}
+
+.academic-img {
+
+    width: 260px;
+
+}
+
+.academic-img-area {
+
+    bottom: -100px;
+
+}
+
+.micon {
+
+    width: 30px;
+
+}
+
+.operate-area {
+
+    margin-bottom: 0px;
+
+}
+
+.scroll-to-top {
+
+    width: 36px;
+
+    height: 36px;
+
+    font-size: 20px;
+
+    line-height: 36px;
+
+}
+
+.social-links img {
+
+    width: 24px;
+
+}
+
+.social-links ul li {
+
+    padding: 0px 15px;
+
+}
+
+.footer-logo {
+
+    width: 180px;
+
+}
+
+.para-wit-dots {
+
+    margin-top: -50px;
+
+}
+
+}
+
+
+
+@media only screen and (max-width: 940px) {
+
+.st-img, .parents-img-one, .mentors-img-one {
+
+    max-width: 250px;
+
+}
+
+.st-img-one {
+
+    max-width: 200px;
+
+}
+
+.st-img-one {
+
+    margin-left: -50px;
+
+}
+
+
+}
+@media only screen and (max-width: 850px) {
+.intro-area {
+    margin-right: 0px;
+}
+.light-img {
+    width: 290px;
+}
+}
+@media only screen and (max-width: 767px) {
+.light-img{
+    width: 250px;
+}
+.academic-lit-area {
+    position: absolute;
+    right: -10px;
+    left: unset;
+}
+.st-with-dots {
+    display: flex;
+    place-items: center;
+    align-items: center;
+    flex-direction: row;
+}
+.mw-dots .star-dots {
+    left: unset;
+    right: 0px;
+}
+.star-dots {
+    width: 270px;
+}
+.academic-area ul li:after {
+    top: 0px;
+    transform: none;
+}
+.academic-area {
+    max-width: 100%;
+}
+.st-area p {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.pencil-box {
+    top: -40px;
+    left: -300px;
+}
+.navbar-toggler {
+
+    float: right;
+
+}
+
+.header-menu, .sticky-header{
+
+    width: 100%;
+
+}
+
+.intro-area {
+    float: left;
+    margin-top: 0px;
+}
+
+.header-with-dots .asteroid {
+
+    width: 250px;
+
+}
+
+.header-with-dots {
+
+    right: -105px;
+
+    top: 55px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 300px;
+
+}
+
+.intro-img {
+
+    width: 350px;
+
+}
+
+.st-area p br{
+
+    display: none;
+
+}
+
+.section-title {
+
+    font-size: 80px;
+
+}
+
+.pencil-box img {
+
+    width: 56px;
+
+}
+
+.student-sec {
+
+    padding: 100px 0px 150px;
+
+}
+
+.st-with-dots {
+
+    bottom: -40px;
+
+}
+
+.para-wit-dots {
+
+    margin-top: -40px;
+
+    text-align: left;
+
+}
+
+.para-area {
+
+    margin-left: 0px;
+
+}
+
+.para-area p br {
+
+    display: none;
+
+}
+
+.parents-img-two {
+
+    width: 180px;
+
+}
+
+.calc {
+
+    width: 90%;
+}
+
+.st-img, .parents-img-one, .mentors-img-one {
+
+    max-width: 220px;
+
+}
+
+.parents-sec {
+
+    padding: 20px 0px 160px;
+
+}
+
+.stitle-tagline {
+
+    font-size: 22px;
+
+    line-height: 32px;
+
+}
+
+.mentors-wit-dots {
+
+    margin-top: 0px;
+
+    text-align: right;
+
+    margin-right: 100px;
+
+}
+
+.parents-img-two {
+
+    z-index: 1;
+
+}
+
+.mentors-img-two {
+
+    width: 200px;
+
+    margin-top: -60px;
+
+}
+
+.operate-area h3 {
+
+    padding-left: 50px;
+
+    margin-bottom: -25px;
+
+}
+
+
+
+.academic-area {
+
+    margin-left: 0px;
+
+}
+
+.academic-img {
+
+    width: 200px;
+
+}
+
+.academic-sec {
+
+    padding: 50px 0px 100px;
+
+}
+
+.academic-img-area {
+
+    bottom: -85px;
+
+    right: unset;
+
+    left: 0px;
+
+}
+
+.certification-sec {
+
+    padding: 100px 0px 70px;
+
+}
+
+.certification-area p {
+
+    padding-left: 0px;
+
+}
+
+.certification-area {
+
+    max-width: 100%;
+
+}
+
+.footer-icons {
+
+    max-width: 320px;
+
+}
+
+.intro-area .rocket {
+
+    width: 120px;
+
+    margin-right: -80px;
+
+    margin-bottom: -100px;
+
+}
+
+.intro-book-img {
+
+    left: 20px;
+
+}
+
+.micon {
+
+    width: 24px;
+
+}
+
+.intro-sec h1 {
+
+    bottom: -15px;
+
+}
+
+.footer-logo-area{
+
+  text-align: center;
+
+}
+
+.social-links {
+
+    text-align: center;
+
+}
+
+.copyrit-txt{
+
+  text-align: center;
+
+}
+
+}
+
+
+
+@media only screen and (max-width: 680px) {
+
+.intro-sec h1 {
+
+    font-size: 180px;
+
+}
+
+.intro-book-img {
+
+    width: 200px;
+
+}
+
+}
+
+@media only screen and (max-width: 650px) {
+.scroll-to-top{
+    bottom: 10px;
+    right: 10px;
+}
+.lang-sw-item.mob-btn {
+    position: fixed;
+    bottom: 10px;
+    top: unset !important;
+    left: 10px !important;
+}
+.sticky-header .lang-sw-item.mob-btn{
+    display: none !important;
+}
+.lang-sw-click-btn {
+    top: -33px;
+}
+.lang-sw-btn i {
+    transform: rotate(30deg);
+    top: 2px;
+}
+}
+
+@media only screen and (max-width: 580px) {
+.intro-area h2 {
+    margin-left: 0px;
+}
+    .lang-sw-btn, .lang-sw-click-btn {
+    font-size: 12px !important;
+    line-height: 16px !important;
+}
+.lang-sw-click-btn {
+    top: -30px;
+}
+.light-img{
+    width: 220px;
+}
+.mentors-area h3 {
+    margin-bottom: -10px;
+    padding-left: 40px;
+}
+.logo img {
+
+    width: 300px;
+
+}
+
+.stitle-tagline {
+
+    font-size: 20px;
+
+    line-height: 30px;
+
+}
+
+.intro-area .rocket {
+
+    width: 100px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+
+}
+.intro-area {
+    margin-top: 20px;
+}
+.intro-img {
+
+    width: 220px;
+
+    float: right;
+
+}
+
+.intro-book-img {
+
+    width: 180px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 150px;
+
+}
+
+.header-with-dots .asteroid {
+
+    width: 200px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 250px;
+
+}
+
+.pencil-box img {
+
+    width: 50px;
+
+}
+
+.section-title {
+
+    font-size: 70px;
+
+}
+
+.main-header .header-upper {
+
+    padding: 10px 0px;
+
+}
+
+.logo-outer {
+
+    position: relative;
+
+    float: none;
+
+    padding: 0;
+
+    display: table-cell;
+
+    text-align: left;
+
+    vertical-align: middle;
+
+}
+
+.para-wit-dots {
+
+    margin-top: 40px;
+
+}
+
+.academic-area h3 {
+
+    padding-left: 50px;
+
+    margin-bottom: -15px;
+
+}
+
+.academic-area ul li {
+
+    padding: 0px 0px 10px 30px;
+
+}
+.intro-sec .col-xs-6 {
+
+    width: 100%;
+
+    text-align: center;
+
+}
+
+.intro-area {
+
+    width: 100%;
+
+    text-align: center;
+
+}
+
+.intro-area div {
+
+    text-align: center;
+
+}
+
+}
+
+
+
+@media only screen and (max-width: 520px) {
+.mob-btn{
+    top:0px;
+}
+.academic-img {
+
+    width: 170px;
+
+}
+
+.social-links img {
+
+    width: 20px;
+
+}
+
+.footer-logo {
+
+    width: 160px;
+
+}
+
+.footer-icons {
+
+    max-width: 250px;
+
+}
+
+.intro-img {
+
+    width: 200px;
+    left: 0;
+
+}
+
+.section-title {
+
+    font-size: 60px;
+
+}
+
+.side-menu {
+
+    width: 40%;
+
+}
+
+.intro-area .rocket {
+
+    width: 75px;
+
+}
+
+.stitle-tagline {
+
+    font-size: 16px;
+
+    line-height: 26px;
+
+}
+
+.theme-btn {
+
+    font-size: 13px !important;
+
+    line-height: 13px !important;
+
+    padding: 8px 8px 8px 20px !important;
+
+    border-radius: 4px !important;
+
+}
+
+.intro-book-img {
+
+    width: 150px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 120px;
+
+    bottom: -10px
+
+}
+
+p, .academic-area ul li {
+
+    font-size: 13px;
+
+    line-height: 26px;
+
+}
+
+.section-title:after {
+
+    left: 4px;
+
+    top: 4px;
+
+}
+
+.header-with-dots .asteroid {
+
+    width: 150px;
+
+}
+
+.intro-with-dots .planet {
+
+    width: 200px;
+
+}
+
+.header-with-dots {
+
+    right: -62px;
+
+}
+
+.operate-area h3 {
+
+    padding-left: 38px;
+
+    margin-bottom: -17px;
+
+}
+
+.intro-with-dots {
+
+    bottom: unset;
+
+    top: 100px;
+
+    right: -50px;
+
+}
+
+}
+
+@media only screen and (max-width: 490px) {
+
+
+.intro-area h2 {
+
+    margin-left: 30px;
+
+}
+
+.social-links ul li {
+
+    padding: 0px 10px;
+
+}
+
+.side-menu {
+
+    width: 60%;
+
+}
+
+}
+@media only screen and (max-width: 480px) {
+.light-img {
+    width: 180px;
+}
+.logo img {
+    width: 260px;
+}
+.mentors-area h3 {
+    margin-bottom: -5px;
+    padding-left: 30px;
+}
+}
+@media only screen and (max-width: 440px) {
+
+.stitle-tagline {
+
+    font-size: 16px;
+
+    line-height: 26px;
+
+}
+.logo img {
+    width: 220px;
+}
+}
+
+@media only screen and (max-width: 420px) {
+.light-img {
+    width: 150px;
+}
+.mw-dots .star-dots {
+    left: 40px;
+    right: unset;
+}
+.star-dots {
+    width: 200px;
+}
+.rainbow-marker-loader {
+    height: 3rem;
+    width: 8rem;
+}
+.st-with-dots {
+
+    position: relative;
+
+    right: -15px;
+
+    bottom: 0px;
+
+}
+
+.student-sec {
+
+    padding: 80px 0px 20px;
+
+}
+
+
+
+.mentors-wit-dots {
+
+    text-align: center;
+
+    margin-right: 0px;
+
+}
+
+.mentors-img-two {
+
+    margin-right: 45px;
+
+}
+
+.logo img {
+    width: 200px;
+}
+.header-menu, .sticky-header .auto-container {
+    height: 45px;
+}
+.section-title {
+
+    font-size: 50px;
+
+}
+
+.pencil-box img {
+
+    width: 45px;
+
+}
+
+.st-img, .parents-img-one, .mentors-img-one {
+
+    max-width: 190px;
+
+}
+
+.st-img-one {
+
+    max-width: 175px;
+
+}
+
+
+.intro-area .rocket {
+
+    width: 75px;
+
+    margin-right: 0px;
+
+    margin-bottom: 0px;
+
+}
+
+
+.intro-area h2 {
+
+    margin-left: 0px;
+
+    margin-bottom: 10px;
+
+}
+
+.intro-with-dots {
+
+    bottom: 160px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 100px;
+
+    bottom: -7px;
+
+}
+
+.academic-area h3 {
+
+    padding-left: 35px;
+
+    margin-bottom: -10px;
+
+}
+
+.micon {
+
+    width: 14px;
+
+}
+
+.social-links img {
+
+    width: 15px;
+
+}
+
+}
+
+@media only screen and (max-width: 380px) {
+.mob-btn.nav-link.theme-btn {
+    padding-left: 10px !important;
+}
+}
+@media only screen and (max-width: 360px) {
+
+.logo img {
+
+    width: 180px;
+
+}
+
+.intro-sec h1 {
+
+    font-size: 90px;
+
+    bottom: -8px;
+    right: 20px;
+
+}
+
+.intro-book-img {
+
+    width: 130px;
+
+}
+
+.st-img-one {
+
+    max-width: 160px;
+
+}
+
+.mentors-img-two {
+
+    margin-right: 10px;
+
+}
+
+.social-links ul li {
+
+    padding: 0px 5px;
+
+}
+
+
+
+}
+@media only screen and (max-width: 330px) {
+.logo img {
+    width: 170px;
+}
+.intro-img {
+    width: 150px;
+}
+.intro-sec h1{
+    right: 0px;
+}
+}
